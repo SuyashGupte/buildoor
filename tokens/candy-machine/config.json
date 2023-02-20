@@ -1,0 +1,20 @@
+{
+  "number": 5,
+  "symbol": "BLDR",
+  "sellerFeeBasisPoints": 0,
+  "isMutable": true,
+  "isSequential": false,
+  "creators": [
+    {
+      "address": "BgyQKRsy8QBZASz4dpnahNHbPbacD2Yyx9wZj5FXKhDR",
+      "share": 100
+    }
+  ],
+  "uploadMethod": "bundlr",
+  "awsConfig": null,
+  "nftStorageAuthToken": null,
+  "shdwStorageAccount": null,
+  "pinataConfig": null,
+  "hiddenSettings": null,
+  "guards": null
+}
